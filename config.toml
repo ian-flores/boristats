@@ -1,0 +1,77 @@
+baseurl = "/"
+title = "Bori Stats"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "Ian Flores Siaca"
+disqusShortname = "XXX"
+googleAnalytics = "XXX"
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[Author]
+    name = "Ian Flores Siaca"
+    profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Bori Stats"
+    description = "A blog to talk about data science, teaching and tech by Ian Flores Siaca"
+    github = "https://github.com/ian-flores"
+    gitlab = "https://gitlab.com/ian-flores-siaca"
+    linkedin = "https://linkedin.com/in/ian-flores-siaca/"
+    #gplus = "https://google.com/+XXX"
+    twitter = "https://twitter.com/iflores_siaca"
+    #stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+    #facebook = "https://www.facebook.com/username"
+    email = "iflores.siaca@protonmail.ch"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = false
+    shareLinkedIn = true
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = true
+    readingTimeText = "Reading Time:"
+    fathomUrl = ""
+    fathomSiteId = ""
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+#[[menu.main]]
+#    name = "Projects"
+#    url = "/project/"
+#    weight = 2
+
+#[[menu.main]]
+#    name = "Contact"
+#    url = "/page/contact/"
+#    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 4
