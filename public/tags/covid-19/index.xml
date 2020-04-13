@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ian Flores Siaca</copyright>
-    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mediocridad, Gobierno y Datos</title>
+      <link>/2020/04/13/2020-04-13-mediocridad-gobierno-datos/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/13/2020-04-13-mediocridad-gobierno-datos/</guid>
+      <description>Es abril 13. Estamos en el medio de una pandemia global y el Gobierno de Puerto Rico está improvisando y siendo negligente en el manejo de los datos relacionados a la pandemia. El Instituto de Estadísticas se ha auto-relegado a una posición secundaria en la cual se dedica a criticar que el Departamento de Salud no le da acceso a los datos. El Departamento de Salud que tiene epidemiólogos de renombre, pero que parece que no saben sumar y se equivocan de la cantidad de muertos que registran.</description>
+    </item>
     
     <item>
       <title>Teaching Online - Coronatime</title>

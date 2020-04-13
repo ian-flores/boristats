@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Bori Stats</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Bori Stats</description>
+    <title>government on Bori Stats</title>
+    <link>/tags/government/</link>
+    <description>Recent content in government on Bori Stats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ian Flores Siaca</copyright>
     <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/government/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/2020/04/13/2020-04-13-mediocridad-gobierno-datos/</guid>
       <description>Es abril 13. Estamos en el medio de una pandemia global y el Gobierno de Puerto Rico está improvisando y siendo negligente en el manejo de los datos relacionados a la pandemia. El Instituto de Estadísticas se ha auto-relegado a una posición secundaria en la cual se dedica a criticar que el Departamento de Salud no le da acceso a los datos. El Departamento de Salud que tiene epidemiólogos de renombre, pero que parece que no saben sumar y se equivocan de la cantidad de muertos que registran.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Online - Coronatime</title>
-      <link>/2020/03/12/2020-03-12-teaching-covid19/</link>
-      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/03/12/2020-03-12-teaching-covid19/</guid>
-      <description>It is March 12 2020, we are in the middle of a global pandemic of #Coronatime, also known as COVID-19. People have been asked to work from home and you specifically have been asked to teach your in-person lectures/workshops/learning-transfer-rituals online. Now you might be wondering why the light tone of this text? Well, I’m from Puerto Rico, and TwitterPR has been exploding with memes about the pandemic, so might as well share some of that catastrophic joy with everyone around the globe.</description>
     </item>
     
   </channel>
