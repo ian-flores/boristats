@@ -11,7 +11,7 @@ This is a blog for me to write my opinions, tips and workflows. It will contain 
 
 ## About Ian
 
-Ian is a data scientist with experience working with government agencies, NGO's and educational institutions in Puerto Rico, the United States and Canada. He holds a Master's of Data Science from the University of British Columbia and a Bachelor's in Integrative Biology from the University of Puerto Rico. Ian works at Jumping Rivers implementing data science solutions and developing open source educational materials. You can find him at:
+Ian is a data scientist with experience working with government agencies, NGO's and educational institutions in Puerto Rico, the United States and Canada. He holds a Master's of Data Science from the University of British Columbia and a Bachelor's in Integrative Biology from the University of Puerto Rico. Ian works as a freelance data scientist implementing data science solutions and developing open source educational materials. You can find him at:
 
 - [LinkedIn](https://linkedin.com/in/ian-flores-siaca)
 - [GitHub](https://github.com/ian-flores)
