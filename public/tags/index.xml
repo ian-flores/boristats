@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ian Flores Siaca</copyright>
-    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>covid-19</title>
       <link>/tags/covid-19/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/covid-19/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>government</title>
       <link>/tags/government/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/government/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>/tags/open-source/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/open-source/</guid>
       <description></description>
     </item>
     

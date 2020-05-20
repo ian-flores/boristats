@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ian Flores Siaca</copyright>
-    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Puerto Rico, GovTech, and Health</title>
+      <link>/2020/05/19/2020-05-19-pr-govtech-health/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/19/2020-05-19-pr-govtech-health/</guid>
+      <description>Government Tech, or how it is commonly known GovTech, is novel technology implemented to address people’s issues by a given government. This government can be local, municipal, tribal, provincial, statal, or national, what matters is that it uses the technology in benefit of its people and not to their hinderement. Part of the meaning around this is that governments ought to use cutting edge technology while maintaining for example the privacy and security of the users of a given service.</description>
+    </item>
     
     <item>
       <title>Mediocridad, Gobierno y Datos</title>
